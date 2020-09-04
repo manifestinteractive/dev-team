@@ -1,0 +1,58 @@
+{panel:title=(i) OVERVIEW|subText=test}
+
+_Overview of Problem and Targeted Users:_
+
+(flagoff) NOTES:
+
+{panel}
+
+{panel:title=(i) DETAILS}
+_Info about the Environment:_
+
+*URL*: https://companywebsite.com
+*Environment*: Production & Staging
+*Browser*: Google Chrome
+*Device*: Desktop
+*Operating System*: macOS 10.15.6
+
+(flagoff) NOTES:
+
+{panel}
+
+{panel:title=(i) ACCEPTANCE CRITERIA}
+_Issue will be considered complete when the following criteria are met:_
+
+(/) Requirement One
+(/) Requirement Two
+(/) Requirement Three
+
+(flagoff) NOTES:
+
+{panel}
+
+{panel:title=(i) STEPS TO DUPLICATE}
+_A step by step guide written for a person who might be looking at this for the first time:_
+
+# Step 1 to Take
+# Next Step to take
+# Last Step to Take
+
+(flagoff) NOTES:
+
+{panel}
+
+{panel:title=(i) DOCUMENTATION}
+_Screenshots, Business Manager Imports, Jira Issues, etc:_
+
+(flagoff) NOTES:
+
+(flagoff) ATTACHMENTS:
+
+{panel}
+
+{panel:title=(i) DEV & QA NOTES}
+_Any additional notes from developers or QA required to complete this issue:_
+
+(flagoff) NOTES:
+
+{panel}
