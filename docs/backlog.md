@@ -11,6 +11,7 @@ Backlog
 
 * [Creating Tickets](#creating-tickets)
 * [Acceptance Criteria](#acceptance-criteria)
+* [Sorting Priorities](#sorting-priorities)
 * [Emergency Issues](#emergency-issues)
 
 Creating Tickets
@@ -32,6 +33,13 @@ The best way to make sure every ticket is the best it can is to use a consistent
 The following template contains placeholder text for you to enter your ticket details. It may be tempting to delete sections you don't believe are relevant, but you will more than likely discover that you will need to re-add these sections later during the development process.
 
 [![Jira Issue Template](https://img.shields.io/badge/JIRA-Template-blue.svg?style=for-the-badge&logo=atlassian)](https://raw.githubusercontent.com/manifestinteractive/dev-team/master/docs/issue-template.txt) [![Markdown Issue Template](https://img.shields.io/badge/MARKDOWN-Template-blue.svg?style=for-the-badge&logo=markdown)](https://raw.githubusercontent.com/manifestinteractive/dev-team/master/docs/issue-template.md)
+
+Sorting Priorities
+---
+
+The last real Backlog priority will be keeping tickets organized.  Product Owners will know which tickets are the most important to get out, and which ones might have changed priorities.
+
+Since individual tickets might have the same priority ticket level, the order of the ticket in the Backlog will help the team know where you want them to start.  While adding new tickets into the Backlog, this is the best time to move that new ticket into the correct position in your priorities list.
 
 Emergency Issues
 ---

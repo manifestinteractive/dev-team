@@ -10,6 +10,7 @@ Dev Team: Scrum Process
 * [**Backlog**](docs/backlog.md)
     * [Creating Tickets](docs/backlog.md#creating-tickets)
     * [Acceptance Criteria](docs/backlog.md#acceptance-criteria)
+    * [Sorting Priorities](docs/backlog.md#sorting-priorities)
     * [Emergency Issues](docs/backlog.md#emergency-issues)
 * [**Planning**](docs/planning.md)
     * [Grooming](docs/planning.md#grooming)
