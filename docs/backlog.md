@@ -31,7 +31,7 @@ The best way to make sure every ticket is the best it can is to use a consistent
 
 The following template contains placeholder text for you to enter your ticket details. It may be tempting to delete sections you don't believe are relevant, but you will more than likely discover that you will need to re-add these sections later during the development process.
 
-[![Jira Issue Template](https://img.shields.io/badge/JIRA-Template-blue.svg?style=for-the-badge&logo=atlassian)](issue-template.txt) [![Markdown Issue Template](https://img.shields.io/badge/MARKDOWN-Template-blue.svg?style=for-the-badge&logo=markdown)](issue-template.md)
+[![Jira Issue Template](https://img.shields.io/badge/JIRA-Template-blue.svg?style=for-the-badge&logo=atlassian)](https://raw.githubusercontent.com/manifestinteractive/dev-team/master/docs/issue-template.txt) [![Markdown Issue Template](https://img.shields.io/badge/MARKDOWN-Template-blue.svg?style=for-the-badge&logo=markdown)](https://raw.githubusercontent.com/manifestinteractive/dev-team/master/docs/issue-template.md)
 
 Emergency Issues
 ---
